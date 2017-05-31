@@ -1,0 +1,8 @@
+{
+  "es": {
+    "HELLO_WORLD": "¡Hola Mundo!"
+  },
+  "en": {
+    "HELLO_WORLD": "Hello World!"
+  }
+}
